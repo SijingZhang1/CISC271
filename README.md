@@ -5,7 +5,7 @@ Projects completed in CISC271.
 # Linear Regression & Cross-Validation Analysis — MATLAB 
 – Developed a linear regression model to analyze a matrix dataset. \
 – Implemented data standardization and 5-fold cross-validation to ensure reliability. \
-– Identified the best predictor variable with the lowest RMS error. \
+– Identified the best predictor variable with the lowest RMS error. 
 
 # Graph Clustering Using Fiedler Vector — MATLAB 
 – Utilized the Fiedler vector of a Laplacian matrix to cluster graph vertices into two sets. \
