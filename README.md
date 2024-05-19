@@ -2,7 +2,7 @@
 
 Projects completed in CISC271.
 
-Linear Regression & Cross-Validation Analysis — MATLAB /n
+Linear Regression & Cross-Validation Analysis — MATLAB \
 – Developed a linear regression model to analyze a matrix dataset.
 – Implemented data standardization and 5-fold cross-validation to ensure reliability.
 – Identified the best predictor variable with the lowest RMS error.
